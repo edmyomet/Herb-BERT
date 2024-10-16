@@ -2,3 +2,5 @@
 venv/
 #node modules 
 node_modules/
+#data used
+data/json_data1.json
